@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373222657067",
+    "project_id": "valeta-demo",
+    "storage_bucket": "valeta-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373222657067:android:d114532bfdf6d80e7bee6e",
+        "android_client_info": {
+          "package_name": "com.example.valeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373222657067-51jhqbsiu0qnu1g29baqg5tj04435j3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeFINoNzu9bQgzK8hFK9GPzxleMMfLVtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373222657067-51jhqbsiu0qnu1g29baqg5tj04435j3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
